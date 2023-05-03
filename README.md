@@ -7,8 +7,8 @@
 
 ## 📝 Blogs and writing
 I've very active, writing content regularly to at least one of these.
-- [[Technical Blogs]](https://nafiurrashid.medium.com/)
-- [[Non-Tech Blogs]](https://nafiurrashid.wordpress.com)
+- [Technical Blogs](https://nafiurrashid.medium.com/)
+- [Non-Tech Blogs](https://nafiurrashid.wordpress.com)
 
 
 ## 📫 How to reach me
