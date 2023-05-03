@@ -9,7 +9,27 @@
 
 ## 🎓 Education
 - Ahsanullah Universdity of Science and Technology, BSc in CSE, 2019
+- Govt Science College, HSC, 2013
+- Ideal School and College, SSC, 2011 
 
+## 💻 Work Experience
+- Line Reflection, DevOps Engineer, Mar 2022-July 2022<br />
+  ~ Deployed projects according to clients' need using Terraform, Jenkins, Docker, Git etc.<br />
+  ~ Develop Strategis, process, and tools to ensure manageable and efficient deployments.<br />
+  ~ Plan and Execute updates, and migrations in Dev, Stage, and Prod for different codebases eg: React, Django, Wordpress etc.<br />
+- Probashi Sheba, Software Engineer, Jan 2021-Feb 2022<br />
+  ~ Deployed and maintained 15+ codebases and their respective servers.<br />
+  ~ Review client requirement and make Project Requirement Document, Information Architecture, User Flow Etc<br />
+  ~ Orchestrate design sprint which results in two mobile app prototype with 300+ pages each.<br />
+  ~ Collaborate with frontend designers and UI designers to translate client requirements into feature <br />
+
+## 📚 Training and Certifications
+- Server Administration and Cloud Management, BITM<br />
+- DevOps With GCP, Poridhi.io<br />
+- Intermediate Python, Datacamp<br />
+- Nitty gritty of python, Dev Skill<br />
+- SQL for Data-Science, Couresera
+<br />
 # 💻 Tech Stack:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -22,8 +42,8 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=nafiurrashid&theme=dark&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiurrashid&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!-- </div> -->
-<!-- ## 🏆 GitHub Trophies -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=nafiurrashid&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+## 🏆 GitHub Trophies 
+ ![](https://github-profile-trophy.vercel.app/?username=nafiurrashid&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nafiurrashid&icon=0&color=0)](https://visitcount.itsvg.in)
